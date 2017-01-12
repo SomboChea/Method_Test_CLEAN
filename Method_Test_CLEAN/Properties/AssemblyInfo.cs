@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Method_Test_CLEAN")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("rg-adguard")]
+[assembly: AssemblyCompany("MS Security System")]
 [assembly: AssemblyProduct("Method_Test_CLEAN")]
-[assembly: AssemblyCopyright("Copyright © rg-adguard 2017")]
+[assembly: AssemblyCopyright("Copyright © SomboChea 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
